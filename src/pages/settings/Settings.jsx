@@ -10,6 +10,7 @@ export default function Settings() {
                     <span className="settingsDeleteTitle">Delete Account</span>
 
                 </div>
+                
                 <form className="settingsForm">
                     <label >Profile Picture</label>
                     <div className="settingsPP">
